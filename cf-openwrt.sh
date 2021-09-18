@@ -10,11 +10,11 @@ remoteport=443
 
 declare -i bandwidth
 declare -i speed
-pushplus=自己的token
+pushplus=4b6de2b73cca49b7807d45115fc9221f
 ServerChan=自己的token
 ServerChanTurbo=自己的token
 Telegrambot=自己的token
-bandwidth=50
+bandwidth=180
 speed=bandwidth*128*1024
 starttime=`date +'%Y-%m-%d %H:%M:%S'`
 while true
