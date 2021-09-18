@@ -10,7 +10,7 @@ remoteport=443
 
 declare -i bandwidth
 declare -i speed
-pushplus=4b6de2b73cca49b7807d45115fc9221f
+pushplus=自己的token
 ServerChan=自己的token
 ServerChanTurbo=自己的token
 Telegrambot=自己的token
